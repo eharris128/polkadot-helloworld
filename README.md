@@ -9,3 +9,8 @@ https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/
 https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962
 
 [Submission](https://github.com/eharris128/polkadot-helloworld/tree/main/remix-moonbeam)
+
+## Challenge 3
+https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
+
+[Submission](https://github.com/eharris128/polkadot-helloworld/tree/main/truffle-moonbeam)
